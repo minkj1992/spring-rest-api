@@ -16,7 +16,7 @@ public class Event {
     private LocalDateTime closeEnrollmentDateTime;
     private LocalDateTime beginEventDateTime;
     private LocalDateTime endEventDateTime;
-    private String location;
+    private String location;    //null인경우 online으로 간주
     private int basePrice;
     private int maxPrice;
     private int limitOfEnrollment;
