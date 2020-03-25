@@ -108,3 +108,6 @@
     }
 
 ```
+### 3. 이벤트 생성 API
+- `import org.springframework.boot.test.autoconfigure.web.servlet.WebMvcTest`
+    
